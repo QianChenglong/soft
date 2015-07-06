@@ -1,8 +1,3 @@
-% readme
-% QianChengLong
-% 2015-07-06 10:30:05
-
-
 # 文件工具
 
 -   [BeyondCompare](http://www.scootersoftware.com/)
