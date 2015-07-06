@@ -9,6 +9,14 @@
 
     文件差异比较工具
 
+-   [EveryThing](https://www.mythicsoft.com/filelocatorpro)
+
+    文件搜索工具，根据文件名等信息
+
+-   [FileLocator](https://www.mythicsoft.com/filelocatorpro)
+
+    文件全文搜索
+
 
 # 桌面工具
 
@@ -32,10 +40,6 @@
 
     制作dropbox绿色版
 
--   [EveryThing](https://www.mythicsoft.com/filelocatorpro)
-
-    文件搜索工具，根据文件名等信息
-
 -   [fences](http://www.stardock.com/products/fences/)
 
     Windows桌面图标管理
@@ -43,11 +47,6 @@
 -   [fiddler](http://www.telerik.com/fiddler)
 
     web调试代理
-
--   [FileLocator](https://www.mythicsoft.com/filelocatorpro)
-
-    文件全文搜索
-
 
 -   [f.lux](https://justgetflux.com/)
 
