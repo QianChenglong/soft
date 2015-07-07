@@ -4,6 +4,10 @@
 
     快速启动工具！
 
+-   [autohotkey](http://www.autohotkey.com/)
+
+    桌面快捷键映射，神器！
+
 -   [EveryThing](https://www.mythicsoft.com/filelocatorpro)
 
     文件搜索工具，超级快！！
