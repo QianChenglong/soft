@@ -1,23 +1,29 @@
+# 神器！【排名不分先后】
+
+-   [ALMrun](https://github.com/chenall/ALMRun/)
+
+    快速启动工具！
+
+-   [EveryThing](https://www.mythicsoft.com/filelocatorpro)
+
+    文件搜索工具，超级快！！
+
+-   [win-sshfs](https://code.google.com/p/win-sshfs/)
+
+    ssh文件系统，可以将远程文件系统映射到本地，大大方便了远程开发！！！
+
+
 # 文件工具
 
 -   [BeyondCompare](http://www.scootersoftware.com/)
 
     文件差异比较工具
 
--   [EveryThing](https://www.mythicsoft.com/filelocatorpro)
-
-    文件搜索工具，根据文件名等信息
-
 -   [FileLocator](https://www.mythicsoft.com/filelocatorpro)
 
     文件全文搜索
 
-
 # 桌面工具
-
--   [ALMrun](https://github.com/chenall/ALMRun/)
-
-    快速启动工具
 
 -   [Clover](http://cn.ejie.me/)
 
