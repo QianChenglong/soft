@@ -168,3 +168,5 @@
 -   [Dependency Walker](http://www.dependencywalker.com/)
 
     dll依赖查询
+
+-   [git for windows](https://github.com/git-for-windows/git/releases/)
