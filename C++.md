@@ -7,3 +7,7 @@
 # RPC
 
 -   [hprose](https://github.com/hprose)
+
+-   [thrift](https://thrift.apache.org/)
+
+-   [gRPC](http://www.grpc.io/)

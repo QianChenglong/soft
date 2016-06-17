@@ -14,10 +14,6 @@
 
     -   ctags，`field+=lS`
 
--   unimpaired
-
-    方括号命令集
-
 -   buffline
 
     在状态栏显示缓冲区信息
@@ -98,6 +94,24 @@
 
     可视化 `quickfix`, `mark`, `location-lists`等符号
 
+-   [vim-scriptease](https://github.com/tpope/vim-scriptease)
+
+    一些辅助命令
+
+-   [easymotion](https://github.com/easymotion/vim-easymotion)
+
+    快速移动
+
+-   [camelcasemotion](https://github.com/vim-scripts/camelcasemotion)
+
+    提供程序语言风格(camelcase or underscore)的移动
+
+# [Tim Pope](https://github.com/tpope)
+
+-   [vim-unimpaired](https://github.com/tpope/vim-unimpaired)
+
+    拓展的方括号命令集
+
 # markdown
 
 -   [vim-markdown](https://github.com/plasticboy/vim-markdown)
@@ -141,3 +155,7 @@
 -   [vim-go](https://github.com/fatih/vim-go)
 
     go开发环境
+
+# json
+
+-   [elzr/vim-json](https://github.com/elzr/vim-json)
